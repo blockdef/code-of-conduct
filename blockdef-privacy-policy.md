@@ -1,5 +1,7 @@
 ---
 title: PRIVACY POLICY
+date: 01/01/2024
+slug: code-of-conduct
 ---
 ## Introduction
 
