@@ -1,5 +1,7 @@
 ---
-title: CODE OF CONDUCT
+title: Code of Conduct
+date: 01/01/2024
+slug: code-of-conduct
 ---
 ## Our Pledge
 
